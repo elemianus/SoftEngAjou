@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns="http://tizen.org/ns/packages" api-version="2.4" package="kr.ajou.softeng.heatingcontrolclient" version="1.0.0">
-    <profile name="mobile" />
-    <ui-application appid="kr.ajou.softeng.heatingcontrolclient" exec="heatingcontrolclient" type="capp" multiple="false" taskmanage="true" nodisplay="false">
-        <icon>heatingcontrolclient.png</icon>
-        <label>heatingcontrolclient</label>
-	</ui-application>
-</manifest>
