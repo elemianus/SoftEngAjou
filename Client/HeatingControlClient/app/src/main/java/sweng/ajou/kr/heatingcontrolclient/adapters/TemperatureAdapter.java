@@ -51,7 +51,7 @@ public class TemperatureAdapter extends BaseAdapter {
 
         currentTemp.setText(sensorList.get(i).getTempature()+" C");
         sensorTitle.setText(sensorList.get(i).getName());
-        sensorEnvioment.setText("Some envioment");
+        sensorEnvioment.setText("Not in any envioment");
 
         return view;
     }
